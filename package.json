@@ -1,5 +1,5 @@
 {
-  "name": "react-pwa",
+  "name": "thirst",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,7 +13,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "typescript": "^3.7.5"
+    "typescript": "^3.9.3"
   },
   "scripts": {
     "start": "react-scripts start",
